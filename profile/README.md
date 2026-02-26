@@ -1,6 +1,5 @@
-## Core Software
+## embedded-linux
 
 |#|Name|Description|
 |-|-|-|
-|1.| [embedded-linux](https://github.com/NTX-embedded-linux) |embedded linux relative softwares.|
-|2.| [NTXEmbedded](https://github.com/NTX-Software/NTXEmbedde)|original NTX software projects.|
+|1.| [linux-yocto](https://github.com/NTX-linux-yocto) |yocto reletive projects.|
